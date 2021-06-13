@@ -1,0 +1,13 @@
+C:\Users\kietd\source\repos\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\kietd\source\repos\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\kietd\source\repos\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\kietd\source\repos\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\kietd\source\repos\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\kietd\source\repos\Lab3\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.AssemblyReference.cache
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\kietd\source\repos\Lab3\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
