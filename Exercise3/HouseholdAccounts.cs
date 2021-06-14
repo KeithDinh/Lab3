@@ -138,6 +138,7 @@ namespace Exercise3
         public void Sort()
         {
             transactions = transactions.OrderBy(x => x.Date).ThenBy(x => x.Description).ToList();
+            Console.WriteLine("Sort successfully!!!");
         }
         public void Normalize()
         {
